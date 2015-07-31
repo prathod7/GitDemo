@@ -1,3 +1,8 @@
 hey there! i am using watsapp..!
 
 first commit from second.
+
+first commit from master.
+
+first commit from first.
+
